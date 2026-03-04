@@ -1,5 +1,6 @@
 **Live demo**: [cleanstart-chi.vercel.app](https://cleanstart-chi.vercel.app/)  
 **Repository**: [github.com/vishnu-priya-27/cleanstart](https://github.com/vishnu-priya-27/cleanstart)
+
 **Quickstart**: create Supabase project → run `supabase-schema.sql` → set `.env.local` → `npm install` → `npm run dev`
 
 # CleanStart - Startup Simulation Game
